@@ -1,2 +1,2 @@
 # cusco_en_tu_mesa
-Coffe 
+Toda el codigo correspondiente a esta pagina es propiedad de Ivan Mayorga Zlotnikova.  
